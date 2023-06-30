@@ -5,10 +5,10 @@ The inaccuracy of time elapsed before timeout increases with the decrease in the
 
 Example:
 ```python
-from input_with_timeout import input_with_timout
+from input_with_timeout import input_with_timeout
 
 #4.2 seconds timeout
-number = input_with_timout(4.2, "Enter a number: ")
+number = input_with_timeout(4.2, "Enter a number: ")
 
 #None is returned if timeout
 if number == None:
