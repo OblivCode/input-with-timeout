@@ -18,4 +18,5 @@ else:
 ```
 # Installation
 Install wheel file like a pypi package.
-pip install ./input_with_timeout-1-py3-none-any.whl
+
+`py -m pip install ./input_with_timeout-1-py3-none-any.whl`
