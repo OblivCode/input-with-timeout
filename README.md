@@ -1,2 +1,3 @@
 # input-with-timeout
-The same as standard python input() but with a timeout!
+The same as standard Python input() but with a timeout!
+Optimised (I think), written in pure python though...
