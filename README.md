@@ -16,3 +16,6 @@ if number == None:
 else:
     print("You entered: " + number) 
 ```
+# Installation
+Install wheel file like a pypi package.
+pip install ./input_with_timeout-1-py3-none-any.whl
